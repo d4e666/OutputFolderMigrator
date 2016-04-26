@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/OutputFolderMigrator/OutputFolderMigratorConsole/bin/Debug
+/OutputFolderMigrator/.vs/OutputFolderMigrator/v14
+/OutputFolderMigrator/OutputFolderMigratorConsole/obj/Debug
